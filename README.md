@@ -17,4 +17,4 @@
 *Space - Warp (Special Ability)
 
 ## Screenshots
-![game](https://github.com/99ashu/Monster_Hunter/blob/main/screenshots/Screenshot%202023-05-27%20211721.png?raw=true)
+![game](https://raw.githubusercontent.com/99ashu/Monster_Hunter/main/screenshots/Screenshot%202023-05-27%20211721.png)
